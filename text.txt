@@ -1,2 +1,4 @@
 i have my lunch.
 i dont have my lunch.
+do i have my lunch?
+why dont i have my lunch?
