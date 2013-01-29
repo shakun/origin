@@ -17,3 +17,8 @@ i am having my lunch.
 i am not having my lunch.
 am i having my lunch?
 why am i having my lunch this soon?
+
+i was having my lunch.
+i was not having my lunch.
+was i having my lunch?
+why was i having my lunch?
