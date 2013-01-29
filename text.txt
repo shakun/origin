@@ -27,3 +27,25 @@ i shall be having my lunch
 i shall not be having my lunch.
 shall i be having my lunch?
 why shall i be having my lunch soon?
+
+i have had my lunch.
+i have not had my lunch.
+have i had my lunch?
+why have i had my lunch soon?
+
+i had had my lunch.
+i had not had my lunch.
+had i had my lunch?
+why had i had my lunch?
+
+i shall have my lunch.
+i shall not have my lunch.
+shall i have my lunch?
+why shall i have my lunch?
+
+i have been having my lunch for 5 mins.
+i have been having my lunch since 2 o'clock.
+i have not been having my lunch since monday.
+have i been having my lunch for a week?
+why have i been having my lunch for 2 hours?
+
