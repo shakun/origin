@@ -2,3 +2,8 @@ i have my lunch.
 i dont have my lunch.
 do i have my lunch?
 why dont i have my lunch?
+
+i had my lunch.
+i did not have my lunch.
+did i have my lunch?
+why did not i have my lunch?
